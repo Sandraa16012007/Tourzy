@@ -58,7 +58,7 @@ npm run dev
 
 ---
 
-🔗 Live Link: (To be added after deployment)
+🔗 Live Link: (https://tourzy.netlify.app/)
 
 ---
 
