@@ -1,4 +1,4 @@
-# 🌍 Tourzy – A Travel Journal (My First React Project with Vite)
+# 🌍 Tourzy – A Travel Journal
 
 Tourzy is a simple and visually engaging travel journal web application built using **React + Vite**. This project marks my first step into the React ecosystem, where I explored concepts like **components**, **props**, and **dynamic rendering of data**.
 
@@ -51,6 +51,9 @@ npm install
 
 # Start the development server
 npm run dev
+
+
+```
 
 
 ---
