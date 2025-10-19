@@ -1,7 +1,12 @@
+import mountFuji from "./images/mount-fuji.jpg";
+import sydneyOperaHouse from "./images/sydney-opera-house.jpg";
+import greatWallOfChina from "./images/great-wall-of-china.jpg";
+import jaisalmerFort from "./images/jaisalmer-fort.jpg";
+
 export default [
     {
         id: 1,
-        img: "images/mount-fuji.jpg",
+        img: mountFuji,
         country: "Japan",
         title: "Mount Fuji",
         date: "12 Jan 2025 - 16 Jan 2025",
@@ -9,7 +14,7 @@ export default [
     },
     {
         id: 2,
-        img: "images/sydney-opera-house.jpg",
+        img: sydneyOperaHouse,
         country: "Australia",
         title: "Sydney Opera House",
         date: "27 May 2025 - 8 Jun 2025",
@@ -17,7 +22,7 @@ export default [
     },
     {
         id: 3,
-        img: "images/great-wall-of-china.jpg",
+        img: greatWallOfChina,
         country: "China",
         title: "Great Wall of China",
         date: "01 Oct 2025 - 15 Oct 2025",
@@ -25,7 +30,7 @@ export default [
     },
     {
         id: 4,
-        img: "images/jaisalmer-fort.jpg",
+        img: jaisalmerFort,
         country: "India",
         title: "Jaisalmer Fort",
         date: "10 September 2025 - 20 September 2025",
